@@ -1,5 +1,5 @@
 # CargoLink Logistics – Voice Note Assistant  
-## Task 3: Confirmation UI for Editing & Approving Extracted Actions
+Confirmation UI for Editing & Approving Extracted Actions
 
 **Intern:** Waqar Nadeem  
 **Client:** CargoLink Logistics  
